@@ -1,4 +1,4 @@
-# Instalación
+# Instalación LAMP + Symfony
 
 Actualizar repositorio:
 

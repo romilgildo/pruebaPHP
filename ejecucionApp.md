@@ -1,4 +1,4 @@
-# Ejecución
+# Ejecución app
 
 Para empezar, vamos a trabajar con la demo de Symfony. Descargar con:
 
