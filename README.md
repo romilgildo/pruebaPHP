@@ -6,4 +6,8 @@
 
 2. [Ejecución de la aplicación.](https://github.com/romilgildo/pruebaPHP/blob/master/ejecucionApp.md)
 
-3. [Configuración del Virtualhost](https://github.com/romilgildo/pruebaPHP/blob/master/configurarVirtualhost.md)
+3. Construcción de App Coches:
+
+  3.1. [Estructura de directorios.](https://github.com/romilgildo/pruebaPHP/blob/master/estructuraDir.md)
+
+  3.2. [Configuración del Virtualhost.](https://github.com/romilgildo/pruebaPHP/blob/master/configurarVirtualhost.md)
